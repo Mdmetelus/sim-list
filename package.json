@@ -9,9 +9,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.18.3",
     "browser-sync": "^2.26.3",
     "express": "^4.16.4",
     "gulp": "^4.0.0",
-    "gulp-live-server": "0.0.31"
+    "gulp-live-server": "0.0.31",
+    "react": "^16.6.3"
   }
 }
